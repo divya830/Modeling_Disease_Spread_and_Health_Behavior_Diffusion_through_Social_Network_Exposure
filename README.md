@@ -74,5 +74,5 @@ The project consists of four main analyses:
 3. View the `Report.pdf` for a detailed analysis and findings summary.
 
 ## License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are free to share and adapt the materials for non-commercial purposes with proper attribution.
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and materials, provided that you give appropriate credit to the author.
 
