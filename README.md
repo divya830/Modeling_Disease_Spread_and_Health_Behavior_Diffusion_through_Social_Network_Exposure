@@ -46,8 +46,10 @@ The repository includes data, code, results, as well as the final report and pre
   - `Base_Paper_2.pdf`: Paper 2 in PDF format.
   - `Presentation_1.pdf`: Presentation of Paper 1 in PDF format.
   - `Presentation_2.pdf`: Presentation of Paper 2 in PDF format.
+  - `Supplementary_Slides.pdf`: Supplementary Slides in PDF format.
   - `Source_file1.pptx`: Source File for Presentation of Paper 1.
   - `Source_file2.pptx`: Source File for Presentation of Paper 2.
+  - `Source_Supplementary.ppt`: Supplementary Slides for Paper 1 and Paer 2.
 
 ## Project Analyses
 The project consists of four main analyses:
