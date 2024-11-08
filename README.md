@@ -3,9 +3,9 @@
 ## Project Overview
 This project investigates how social network structures and economic connectedness affect infectious disease spread and health behavior diffusion. 
 This repository contains all materials for my project exploring the dynamics of infectious disease transmission influenced by social network structures and demographic factors. The project incorporates modified epidemiological models, integrating Social Network Exposure (SNE) and clustering effects to understand disease spread and health behavior diffusion across different socioeconomic groups and age structures. Key analyses include economic connectedness, age-structured transmission, the SLIAR model with social exposure, and clustered network effects on infection rates.
-The project draws upon foundational concepts from two key papers by Raj Chetty et al. on Social Capital:
-Social Capital I: Measurement and Associations with Economic Mobility
-Social Capital II: Determinants of Economic Connectedness
+- The project draws upon foundational concepts from two key papers by Raj Chetty et al. on Social Capital:
+  - Social Capital I: Measurement and Associations with Economic Mobility
+  - Social Capital II: Determinants of Economic Connectedness
 The repository includes data, code, results, as well as the final report and presentation, organized to facilitate understanding of results.
 
 ## Repository Structure
