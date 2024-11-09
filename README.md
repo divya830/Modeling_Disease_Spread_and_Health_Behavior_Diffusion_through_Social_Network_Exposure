@@ -32,9 +32,9 @@ The repository includes data, code, results, as well as the final report and pre
 - **Report Folder**  
   Contains the report and associated files.
   - `Figures`: Folder for images and figures included in the report.
-  - `Report.tex`: LaTeX source file for the report.
+  - `Report_Source.tex`: LaTeX source file for the report.
   - `Report.pdf`: Compiled final report in PDF format.
-  - `Bibliography.bib`: BibTeX file for references used in the report.
+  - `References.bib`: BibTeX file for references used in the report.
   
 - **Slides**  
   Contains the presentation materials.
