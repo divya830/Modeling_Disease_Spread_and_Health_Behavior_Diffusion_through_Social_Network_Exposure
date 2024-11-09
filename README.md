@@ -29,12 +29,13 @@ The repository includes data, code, results, as well as the final report and pre
   - **Results**
     - `Figures`: Folder for all figures in the result after simulation.
 
-- **Report Folder**  
+- **Report**  
   Contains the report and associated files.
   - `Figures`: Folder for images and figures included in the report.
   - `Report_Source.tex`: LaTeX source file for the report.
   - `Report.pdf`: Compiled final report in PDF format.
   - `References.bib`: BibTeX file for references used in the report.
+  - `Zip_file_Complete.zip`: Complete Zip file from latex.
   
 - **Slides**  
   Contains the presentation materials.
